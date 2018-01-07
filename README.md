@@ -8,7 +8,7 @@ This program is developed to allow the user to do the following:
  - Program displays flight route, departure time, arrival time and price.
  - Prompts user to enter passengers' details including name and date of birth.
  - Each pasenger has the option to take a bag, at an extra cost.
- - Price is displayed and user is prompted for credit car number.
+ - Price is displayed and user is prompted for credit card number.
  
  
  <a href="http://www.youtube.com/watch?feature=player_embedded&v=1W4tN124_Tc
